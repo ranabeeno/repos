@@ -15,7 +15,7 @@
 | EP-5 | 2026-10-27 | [api-anything](https://github.com/goodnight000/api-anything) | 1,679 | [Reel দেখো](https://facebook.com/reel/1677294883970312/) | [Shorts দেখো](https://www.youtube.com/shorts/Qume78z7XjY) |
 | EP-6 | 2026-10-31 | [replica-skill](https://github.com/Jakeschincariol/replica-skill) | 6,682 | [Reel দেখো](https://facebook.com/reel/880741338393384/) | [Shorts দেখো](https://youtube.com/shorts/YEQq9RKv4jg) |
 | EP-7 | 2026-10-31 | [ponytail](https://github.com/DietrichGebert/ponytail) | 181,225 | [Reel দেখো](https://facebook.com/reel/1795873465237911/) | [Shorts দেখো](https://www.youtube.com/shorts/ONSyeNM9ye4) |
-| EP-8 | 2026-11-01 | [agent-skills](https://github.com/addyosmani/agent-skills) | 112,425 | [Reel দেখো](https://facebook.com/reel/1126117253493341/) | আসছে |
+| EP-8 | 2026-11-01 | [agent-skills](https://github.com/addyosmani/agent-skills) | 112,425 | [Reel দেখো](https://facebook.com/reel/1126117253493341/) | [Shorts দেখো](https://www.youtube.com/shorts/jawCXC3WI8o) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 - Facebook Page: GitHub Bangla (github ultra)
